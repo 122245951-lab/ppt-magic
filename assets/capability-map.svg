@@ -1,0 +1,36 @@
+<svg viewBox="0 0 680 436" width="680" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>对话式演示 Copilot 能力支柱抽象图</title>
+<desc>定位命题 + 五根能力支柱 + 产品化支撑</desc>
+<rect x="40" y="20" width="600" height="48" rx="12" fill="#0C447C" stroke="#B5D4F4" stroke-width="0.5"/>
+<text x="340" y="44" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="13.5" fill="#E6F1FB">对话式演示 Copilot · 会排版 ／ 听得懂话 ／ 改不坏数据</text>
+<text x="40" y="76" font-family="sans-serif" font-size="12" fill="#5F5E5A">五根能力支柱（可复用的能力原子）</text>
+<g>
+<rect x="40" y="86" width="600" height="42" rx="10" fill="#3C3489" stroke="#AFA9EC" stroke-width="0.5"/>
+<text x="58" y="107" dominant-baseline="central" font-family="sans-serif" font-size="13.5" fill="#EEEDFE">P1 大纲引擎</text>
+<text x="220" y="107" dominant-baseline="central" font-family="sans-serif" font-size="12" fill="#CECBF6">素材摄取 → 深度大纲对齐 → 逐页生成（先给方案再动笔）</text>
+</g>
+<g>
+<rect x="40" y="138" width="600" height="42" rx="10" fill="#085041" stroke="#5DCAA5" stroke-width="0.5"/>
+<text x="58" y="159" dominant-baseline="central" font-family="sans-serif" font-size="13.5" fill="#E1F5EE">P2 锁定版式库</text>
+<text x="220" y="159" dominant-baseline="central" font-family="sans-serif" font-size="12" fill="#9FE1CB">13 页型 × 13 主题，视觉只在版式库枚举内夹取，永不出格不破版</text>
+</g>
+<g>
+<rect x="40" y="190" width="600" height="42" rx="10" fill="#633806" stroke="#EF9F27" stroke-width="0.5"/>
+<text x="58" y="211" dominant-baseline="central" font-family="sans-serif" font-size="13.5" fill="#FAEEDA">P3 保真闸门</text>
+<text x="220" y="211" dominant-baseline="central" font-family="sans-serif" font-size="12" fill="#FAC775">数字/日期/专名指纹比对 · 三级闸门 · 含数字句子一字不改 · 溯源一键还原</text>
+</g>
+<g>
+<rect x="40" y="242" width="600" height="42" rx="10" fill="#712B13" stroke="#F0997B" stroke-width="0.5"/>
+<text x="58" y="263" dominant-baseline="central" font-family="sans-serif" font-size="13.5" fill="#FAECE7">P4 局部精修</text>
+<text x="220" y="263" dominant-baseline="central" font-family="sans-serif" font-size="12" fill="#F5C4B3">画布圈选/点选/Ctrl 多选 + 对话点名「这段」「第 N 条」，只改选中元素</text>
+</g>
+<g>
+<rect x="40" y="294" width="600" height="42" rx="10" fill="#27500A" stroke="#97C459" stroke-width="0.5"/>
+<text x="58" y="315" dominant-baseline="central" font-family="sans-serif" font-size="13.5" fill="#EAF3DE">P5 可信操作</text>
+<text x="220" y="315" dominant-baseline="central" font-family="sans-serif" font-size="12" fill="#C0DD97">全篇操作先给影响清单+破坏性标记 · 统一时间线多步可逆 · BYOK 严格隔离</text>
+</g>
+<text x="40" y="356" font-family="sans-serif" font-size="12" fill="#5F5E5A">产品化支撑（把支柱落成可用产品的机制）</text>
+<rect x="40" y="366" width="600" height="50" rx="10" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
+<text x="340" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2C2C2A">三栏会话工作区 · 导演稿控制台 · PPTX/HTML/PDF 三种导出 · 个人 BYOK + 全局默认</text>
+<text x="340" y="402" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#444441">113 项自动化断言保障（旅程 / 圈选契约 / 蓝图路由 / API 冒烟）</text>
+</svg>
