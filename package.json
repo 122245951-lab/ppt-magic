@@ -1,0 +1,18 @@
+{
+  "name": "ppt-magic",
+  "version": "2.1.0",
+  "description": "PPT 制作与汇报设计助手：动笔前需求对齐 + 联网调研溯源 + 6 套风格主题 × 13 种页型锁定预设，按 SLIDE 法逐页产出可编辑 PPTX，数据保真/局部精修/先确认后执行三条守则护航。",
+  "keywords": [
+    "PPT",
+    "演示文稿",
+    "办公提效",
+    "需求对齐",
+    "风格预设",
+    "数据保真",
+    "python-pptx"
+  ],
+  "author": "孙嘉隆",
+  "license": "MIT",
+  "type": "skill",
+  "entry": "SKILL.md"
+}
